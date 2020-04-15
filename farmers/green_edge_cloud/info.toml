@@ -1,5 +1,5 @@
 name = "Green Edge Cloud"
 description = "As the Coronavirus crisis has revealed, there is an oncoming tsunami of demand for edge compute and storage capacity. The current internet giants will struggle to meet this demand, and will continue to push their highly centralised technology that compromise personal sovereignty and privacy, while burning through an unsustainable amount of energy and natural resources. Not only does this represent an excellent business opportunity for a well-devised decentralised compute & storage platform, but also an opportunity to have a positive impact on the planet and the future of the human race."
-farmer type = "1,2,3" 
-person in contact = "Joe Foxton"
+type = "1,2,3" 
+contact = "Joe Foxton"
 url = "https://www.greenedgecloud.com"
