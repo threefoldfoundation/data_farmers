@@ -1,5 +1,5 @@
 name = "Smart Edge Cloud"
 description = "We Strongly believe in ThreeFold Network and it's democratised, neutral, and secure to provide freedom to all stakeholders. Everyone is digitally independent."
-farmer type = "1,2,3"
-person in contact = "Rishidas Vaniyankandi"
+type = "1,2,3"
+contact = "Rishidas Vaniyankandi"
 url = ""

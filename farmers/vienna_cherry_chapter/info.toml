@@ -1,5 +1,5 @@
 name = "Vienna Cherry Chapter"
 description = "The Vienna Cherry Chapter and it's 18 Members became a Threefolf Farmer because we wanted to be part of this exciting decentralized grid."
-farmer type = "1,2" 
-person in contact = "Wolfgang Wittmer"
+type = "1,2" 
+contact = "Wolfgang Wittmer"
 url = ""
